@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ConsoleApplication/.vs/ConsoleApplication
+/ConsoleApplication/StringClass/obj
+/ConsoleApplication/WinFormsApp/bin/Debug
+/ConsoleApplication/WinFormsApp/obj/Debug
+/ConsoleApplication/XamarinApp/bin/Debug
+/ConsoleApplication/XamarinApp/obj
+/ConsoleApplication/ConsoleApp1/obj
+/ConsoleApplication/ConsoleApp1/bin/Debug/netcoreapp3.1
